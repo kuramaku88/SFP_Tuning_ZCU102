@@ -1,0 +1,29 @@
+2023-05-11T18:29:40.005540900255-18:29:40 **** Incremental Build of configuration Debug for project sfp_tuning ****
+000-make all 
+000-'Building file: ../src/helloworld.c'
+000-'Invoking: ARM v8 gcc compiler'
+000-aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IE:/Mullai/2020_1/SFP_Tuning/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_psu_cortexa53_0/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+000-../src/helloworld.c: In function 'IicPsEepromPolledExample':
+000/sfp_tuning/src/helloworld.c123-1-1unused variable 'Index' [-Wunused-variable]1-../src/helloworld.c:123:6: warning: unused variable 'Index' [-Wunused-variable]
+000-  123 |  u32 Index;
+000-      |      ^~~~~
+000-../src/helloworld.c: In function 'EepromReadData':
+000/sfp_tuning/src/helloworld.c268-1-1unused variable 'Address' [-Wunused-variable]1-../src/helloworld.c:268:14: warning: unused variable 'Address' [-Wunused-variable]
+000-  268 |  AddressType Address = EEPROM_START_ADDRESS;
+000-      |              ^~~~~~~
+000-'Finished building: ../src/helloworld.c'
+000-' '
+000-'Building target: sfp_tuning.elf'
+000-'Invoking: ARM v8 gcc linker'
+000-aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -LE:/Mullai/2020_1/SFP_Tuning/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_psu_cortexa53_0/bsplib/lib -o "sfp_tuning.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: sfp_tuning.elf'
+000-' '
+000-'Invoking: ARM v8 Print Size'
+000-aarch64-none-elf-size sfp_tuning.elf  |tee "sfp_tuning.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  41628	   2104	  20828	  64560	   fc30	sfp_tuning.elf
+000-'Finished building: sfp_tuning.elf.size'
+000-' '
+00255-
+18:29:40 Build Finished (took 947ms)
+

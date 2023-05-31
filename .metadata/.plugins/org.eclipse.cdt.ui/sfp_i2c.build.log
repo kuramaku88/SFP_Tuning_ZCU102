@@ -1,0 +1,45 @@
+12:50:15 **** Incremental Build of configuration Debug for project sfp_i2c ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IE:/Mullai/2020_1/SFP_Tuning/zcu102/export/zcu102/sw/zcu102/domain_psu_cortexa53_0/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'EepromWriteData':
+../src/helloworld.c:210:6: warning: unused variable 'WrBfrOffset' [-Wunused-variable]
+  210 |  u32 WrBfrOffset;
+      |      ^~~~~~~~~~~
+../src/helloworld.c:209:14: warning: unused variable 'Address' [-Wunused-variable]
+  209 |  AddressType Address = EEPROM_START_ADDRESS;
+      |              ^~~~~~~
+../src/helloworld.c:205:15: warning: unused variable 'arr' [-Wunused-variable]
+  205 |  unsigned int arr[PageSize];
+      |               ^~~
+../src/helloworld.c:204:5: warning: unused variable 'Index' [-Wunused-variable]
+  204 |  u8 Index;
+      |     ^~~~~
+../src/helloworld.c: In function 'EepromReadData':
+../src/helloworld.c:252:5: warning: unused variable 'Index' [-Wunused-variable]
+  252 |  u8 Index;
+      |     ^~~~~
+../src/helloworld.c:250:14: warning: unused variable 'Address' [-Wunused-variable]
+  250 |  AddressType Address = EEPROM_START_ADDRESS;
+      |              ^~~~~~~
+At top level:
+../src/helloworld.c:411:12: warning: 'IicPsFindEeprom' defined but not used [-Wunused-function]
+  411 | static s32 IicPsFindEeprom(u16 *Eeprom_Addr,u32 *PageSize)
+      |            ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: sfp_i2c.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -LE:/Mullai/2020_1/SFP_Tuning/zcu102/export/zcu102/sw/zcu102/domain_psu_cortexa53_0/bsplib/lib -o "sfp_i2c.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: sfp_i2c.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size sfp_i2c.elf  |tee "sfp_i2c.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  41100	   2096	  20852	  64048	   fa30	sfp_i2c.elf
+'Finished building: sfp_i2c.elf.size'
+' '
+
+12:50:15 Build Finished (took 607ms)
+

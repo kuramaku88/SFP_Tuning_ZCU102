@@ -1,0 +1,329 @@
+timestamp=[2023-03-28 12:12:48], mode=WORKBENCH_START, duration=0:00:08.534, duration_ms=8534, data={}
+timestamp=[2023-03-28 12:12:49], mode=WORKBENCH_UI_INIT, duration=0:00:00.670, duration_ms=670, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-03-28 12:12:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:08.453, duration_ms=8453, data={}
+timestamp=[2023-03-28 12:14:31], mode=APP_CREATION, duration=0:00:47.722, duration_ms=47722, data={name=sfp_i2c, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=zcu102, application_type=application}
+timestamp=[2023-03-28 12:40:50], mode=WORKBENCH_START, duration=0:00:21.889, duration_ms=21889, data={}
+timestamp=[2023-03-28 12:40:51], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.580, duration_ms=580, data={}
+timestamp=[2023-03-28 12:40:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.979, duration_ms=1979, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,sfp_i2c,sfp_i2c_system,zcu102}
+timestamp=[2023-03-28 12:48:28], mode=PLATFORM_GENERATION, duration=0:02:05.769, duration_ms=125769, data={name=zcu102}
+timestamp=[2023-03-28 12:48:42], mode=BUILD, duration=0:00:01.093, duration_ms=1093, data={name=sfp_i2c, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 12:49:15], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=sfp_i2c, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 12:50:15], mode=BUILD, duration=0:00:00.616, duration_ms=616, data={name=sfp_i2c, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 12:56:16], mode=WORKBENCH_START, duration=0:00:04.575, duration_ms=4575, data={}
+timestamp=[2023-03-28 12:56:17], mode=WORKBENCH_UI_INIT, duration=0:00:00.521, duration_ms=521, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2023-03-28 12:56:20], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.684, duration_ms=2684, data={}
+timestamp=[2023-03-28 12:57:37], mode=APP_CREATION, duration=0:00:45.643, duration_ms=45643, data={name=sfp_tuning, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2023-03-28 12:59:29], mode=PLATFORM_GENERATION, duration=0:01:27.776, duration_ms=87776, data={name=design_1_wrapper}
+timestamp=[2023-03-28 12:59:30], mode=BUILD, duration=0:00:00.876, duration_ms=876, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:04:49], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:11:49], mode=BUILD, duration=0:00:00.713, duration_ms=713, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:13:03], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:14:37], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:15:21], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:15:39], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:17:30], mode=BUILD, duration=0:00:00.660, duration_ms=660, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:19:15], mode=BUILD, duration=0:00:00.689, duration_ms=689, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:21:08], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:25:02], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:28:04], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:29:10], mode=BUILD, duration=0:00:00.647, duration_ms=647, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:30:34], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:35:36], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:38:36], mode=BUILD, duration=0:00:00.653, duration_ms=653, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 13:48:32], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 14:50:44], mode=BUILD, duration=0:00:00.702, duration_ms=702, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 14:53:13], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 14:54:18], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 16:18:47], mode=BUILD, duration=0:00:00.765, duration_ms=765, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 16:20:36], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 16:23:01], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 16:23:04], mode=BUILD, duration=0:00:00.132, duration_ms=132, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:00:13], mode=WORKBENCH_START, duration=0:00:18.319, duration_ms=18319, data={}
+timestamp=[2023-03-28 18:00:15], mode=WORKBENCH_UI_INIT, duration=0:00:01.719, duration_ms=1719, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-03-28 18:00:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.227, duration_ms=1227, data={}
+timestamp=[2023-03-28 18:01:00], mode=BUILD, duration=0:00:00.509, duration_ms=509, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:02:21], mode=BUILD, duration=0:00:02.508, duration_ms=2508, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:04:40], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:22:13], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:27:52], mode=BUILD, duration=0:00:00.305, duration_ms=305, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:29:11], mode=BUILD, duration=0:00:00.617, duration_ms=617, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:30:46], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:33:32], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 18:34:37], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:11:42], mode=BUILD, duration=0:00:00.708, duration_ms=708, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:13:59], mode=BUILD, duration=0:00:00.126, duration_ms=126, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:40:45], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:43:45], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:44:55], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:44:58], mode=BUILD, duration=0:00:00.121, duration_ms=121, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:52:46], mode=BUILD, duration=0:00:00.644, duration_ms=644, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:54:10], mode=BUILD, duration=0:00:00.632, duration_ms=632, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:57:26], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 19:59:13], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:00:17], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:02:05], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:03:04], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:18:58], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:21:15], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-28 20:23:46], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 09:56:57], mode=WORKBENCH_START, duration=0:00:09.103, duration_ms=9103, data={}
+timestamp=[2023-03-29 09:56:58], mode=WORKBENCH_UI_INIT, duration=0:00:00.898, duration_ms=898, data={editors_count=10, platform_editors_count=7, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-03-29 09:56:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.029, duration_ms=29, data={}
+timestamp=[2023-03-29 10:03:37], mode=BUILD, duration=0:00:00.172, duration_ms=172, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 10:24:06], mode=BUILD, duration=0:00:00.699, duration_ms=699, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 10:26:26], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 10:28:11], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 10:32:09], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 10:32:31], mode=BUILD, duration=0:00:00.574, duration_ms=574, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:10:51], mode=WORKBENCH_START, duration=0:00:17.531, duration_ms=17531, data={}
+timestamp=[2023-03-29 14:10:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.363, duration_ms=1363, data={editors_count=10, platform_editors_count=7, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-03-29 14:10:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.041, duration_ms=1041, data={}
+timestamp=[2023-03-29 14:16:12], mode=BUILD, duration=0:00:02.713, duration_ms=2713, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:17:08], mode=BUILD, duration=0:00:00.719, duration_ms=719, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:32:46], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:34:31], mode=BUILD, duration=0:00:00.610, duration_ms=610, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:35:58], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:37:04], mode=BUILD, duration=0:00:00.632, duration_ms=632, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:38:06], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:43:56], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:45:28], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:46:18], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 14:50:35], mode=BUILD, duration=0:00:00.134, duration_ms=134, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:30:18], mode=BUILD, duration=0:00:00.688, duration_ms=688, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:32:29], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:34:43], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:37:00], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:42:16], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:45:57], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:47:00], mode=BUILD, duration=0:00:00.642, duration_ms=642, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:50:23], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:51:58], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:53:52], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:55:56], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 15:59:35], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 16:00:32], mode=BUILD, duration=0:00:00.642, duration_ms=642, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 16:14:49], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:17:03], mode=BUILD, duration=0:00:01.593, duration_ms=1593, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:18:58], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:26:52], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:28:21], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:30:35], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:32:48], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:34:13], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 18:37:49], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:06:32], mode=BUILD, duration=0:00:00.681, duration_ms=681, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:15:07], mode=BUILD, duration=0:00:01.403, duration_ms=1403, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:27:56], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:28:42], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:34:56], mode=BUILD, duration=0:00:00.303, duration_ms=303, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:35:21], mode=BUILD, duration=0:00:00.297, duration_ms=297, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:36:07], mode=BUILD, duration=0:00:00.309, duration_ms=309, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:37:08], mode=BUILD, duration=0:00:00.311, duration_ms=311, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 19:39:37], mode=BUILD, duration=0:00:00.318, duration_ms=318, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:08:24], mode=WORKBENCH_START, duration=0:00:10.065, duration_ms=10065, data={}
+timestamp=[2023-03-29 20:08:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.101, duration_ms=101, data={}
+timestamp=[2023-03-29 20:08:28], mode=WORKBENCH_UI_INIT, duration=0:00:03.699, duration_ms=3699, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-03-29 20:09:34], mode=BUILD, duration=0:00:00.671, duration_ms=671, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:11:12], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:23:56], mode=BUILD, duration=0:00:00.768, duration_ms=768, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:26:46], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:29:02], mode=BUILD, duration=0:00:00.640, duration_ms=640, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 20:43:51], mode=BUILD, duration=0:00:00.566, duration_ms=566, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:28:27], mode=BUILD, duration=0:00:00.632, duration_ms=632, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:29:43], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:32:42], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:34:40], mode=BUILD, duration=0:00:00.642, duration_ms=642, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:40:04], mode=BUILD, duration=0:00:00.645, duration_ms=645, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:43:42], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:50:49], mode=BUILD, duration=0:00:00.645, duration_ms=645, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:52:22], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 21:55:38], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:05:06], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:06:46], mode=BUILD, duration=0:00:00.595, duration_ms=595, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:09:04], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:24:58], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:42:13], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:47:09], mode=BUILD, duration=0:00:00.320, duration_ms=320, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:49:04], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:49:26], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:50:50], mode=BUILD, duration=0:00:00.118, duration_ms=118, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:52:57], mode=BUILD, duration=0:00:00.632, duration_ms=632, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-29 22:53:51], mode=BUILD, duration=0:00:00.705, duration_ms=705, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 10:13:34], mode=WORKBENCH_START, duration=0:00:09.993, duration_ms=9993, data={}
+timestamp=[2023-03-30 10:13:35], mode=WORKBENCH_UI_INIT, duration=0:00:00.821, duration_ms=821, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-03-30 10:13:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.081, duration_ms=81, data={}
+timestamp=[2023-03-30 10:27:15], mode=BUILD, duration=0:00:00.495, duration_ms=495, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 10:51:49], mode=BUILD, duration=0:00:01.768, duration_ms=1768, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 10:54:27], mode=BUILD, duration=0:00:00.924, duration_ms=924, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 10:55:25], mode=BUILD, duration=0:00:00.659, duration_ms=659, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:28:16], mode=BUILD, duration=0:00:01.036, duration_ms=1036, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:45:02], mode=BUILD, duration=0:00:00.714, duration_ms=714, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:45:58], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:48:49], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:50:19], mode=BUILD, duration=0:00:00.577, duration_ms=577, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:51:22], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:56:06], mode=BUILD, duration=0:00:00.616, duration_ms=616, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 15:57:31], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:07:19], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:09:26], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:13:52], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:14:52], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:17:14], mode=BUILD, duration=0:00:00.614, duration_ms=614, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:19:00], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:20:28], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:21:23], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:25:43], mode=BUILD, duration=0:00:00.646, duration_ms=646, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:27:26], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:28:14], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:37:57], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:40:24], mode=BUILD, duration=0:00:00.129, duration_ms=129, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:43:13], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:44:02], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:45:03], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:46:02], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:48:13], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:48:53], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:50:30], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:51:22], mode=BUILD, duration=0:00:00.565, duration_ms=565, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:52:01], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:52:56], mode=BUILD, duration=0:00:00.613, duration_ms=613, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:53:41], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:56:01], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:56:35], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:57:10], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 16:58:19], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 17:01:14], mode=BUILD, duration=0:00:00.611, duration_ms=611, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 17:02:02], mode=BUILD, duration=0:00:00.572, duration_ms=572, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 17:03:24], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 17:04:37], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 17:08:32], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:25:00], mode=BUILD, duration=0:00:03.053, duration_ms=3053, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:25:20], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:25:47], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:35:00], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:40:54], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:44:02], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:46:17], mode=BUILD, duration=0:00:00.626, duration_ms=626, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:47:28], mode=BUILD, duration=0:00:00.617, duration_ms=617, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:49:19], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:50:04], mode=BUILD, duration=0:00:00.563, duration_ms=563, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:50:38], mode=BUILD, duration=0:00:00.616, duration_ms=616, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:51:06], mode=BUILD, duration=0:00:00.617, duration_ms=617, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:52:35], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:54:38], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:57:32], mode=BUILD, duration=0:00:00.632, duration_ms=632, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 18:58:57], mode=BUILD, duration=0:00:00.617, duration_ms=617, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:00:46], mode=BUILD, duration=0:00:00.617, duration_ms=617, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:13:40], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:14:48], mode=BUILD, duration=0:00:00.638, duration_ms=638, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:49:02], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:50:26], mode=BUILD, duration=0:00:00.163, duration_ms=163, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:50:55], mode=BUILD, duration=0:00:00.802, duration_ms=802, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:53:43], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:54:10], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:54:44], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:55:24], mode=BUILD, duration=0:00:00.611, duration_ms=611, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:56:51], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 19:59:51], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 20:00:03], mode=BUILD, duration=0:00:00.114, duration_ms=114, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 20:01:25], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-30 20:09:46], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:25:49], mode=BUILD, duration=0:00:02.787, duration_ms=2787, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:29:05], mode=BUILD, duration=0:00:00.325, duration_ms=325, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:30:05], mode=BUILD, duration=0:00:00.316, duration_ms=316, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:31:32], mode=BUILD, duration=0:00:00.643, duration_ms=643, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:32:59], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:34:19], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:35:00], mode=BUILD, duration=0:00:00.653, duration_ms=653, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:35:34], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:38:45], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:40:50], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:49:44], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-03-31 10:52:04], mode=BUILD, duration=0:00:00.628, duration_ms=628, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:17:16], mode=WORKBENCH_START, duration=0:00:09.422, duration_ms=9422, data={}
+timestamp=[2023-04-04 15:17:17], mode=WORKBENCH_UI_INIT, duration=0:00:00.890, duration_ms=890, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-04-04 15:17:17], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.148, duration_ms=148, data={}
+timestamp=[2023-04-04 15:22:20], mode=BUILD, duration=0:00:00.186, duration_ms=186, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:30:37], mode=BUILD, duration=0:00:00.835, duration_ms=835, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:36:17], mode=BUILD, duration=0:00:00.324, duration_ms=324, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:38:23], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:38:54], mode=BUILD, duration=0:00:00.627, duration_ms=627, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-04 15:45:51], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-08 11:30:26], mode=WORKBENCH_START, duration=0:00:20.164, duration_ms=20164, data={}
+timestamp=[2023-04-08 11:30:28], mode=WORKBENCH_UI_INIT, duration=0:00:01.643, duration_ms=1643, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-04-08 11:30:28], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.929, duration_ms=929, data={}
+timestamp=[2023-04-08 11:31:10], mode=BUILD, duration=0:00:00.677, duration_ms=677, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-08 11:32:55], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 16:11:32], mode=WORKBENCH_START, duration=0:00:11.777, duration_ms=11777, data={}
+timestamp=[2023-04-13 16:11:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.951, duration_ms=951, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-04-13 16:11:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.614, duration_ms=614, data={}
+timestamp=[2023-04-13 16:22:09], mode=BUILD, duration=0:00:03.844, duration_ms=3844, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:35:46], mode=BUILD, duration=0:00:00.717, duration_ms=717, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:40:27], mode=BUILD, duration=0:00:00.651, duration_ms=651, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:43:40], mode=BUILD, duration=0:00:00.646, duration_ms=646, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:45:38], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:46:32], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 20:55:43], mode=BUILD, duration=0:00:00.708, duration_ms=708, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-13 21:47:10], mode=BUILD, duration=0:00:00.657, duration_ms=657, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 17:35:03], mode=WORKBENCH_START, duration=0:00:14.812, duration_ms=14812, data={}
+timestamp=[2023-04-19 17:35:04], mode=WORKBENCH_UI_INIT, duration=0:00:01.079, duration_ms=1079, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-04-19 17:35:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.400, duration_ms=400, data={}
+timestamp=[2023-04-19 17:40:01], mode=BUILD, duration=0:00:02.779, duration_ms=2779, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 17:46:00], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 17:49:47], mode=BUILD, duration=0:00:00.695, duration_ms=695, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 17:53:39], mode=BUILD, duration=0:00:00.721, duration_ms=721, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:00:56], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:02:24], mode=BUILD, duration=0:00:00.640, duration_ms=640, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:13:05], mode=BUILD, duration=0:00:00.646, duration_ms=646, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:15:56], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:42:54], mode=BUILD, duration=0:00:00.662, duration_ms=662, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:44:51], mode=BUILD, duration=0:00:00.656, duration_ms=656, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:46:42], mode=BUILD, duration=0:00:00.618, duration_ms=618, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:47:42], mode=BUILD, duration=0:00:00.112, duration_ms=112, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:56:30], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:57:01], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:57:16], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 18:58:54], mode=BUILD, duration=0:00:00.137, duration_ms=137, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 19:41:42], mode=BUILD, duration=0:00:00.762, duration_ms=762, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 19:42:39], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 19:44:08], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 19:45:38], mode=BUILD, duration=0:00:00.647, duration_ms=647, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-19 19:46:15], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 10:21:48], mode=BUILD, duration=0:00:01.332, duration_ms=1332, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 10:22:15], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 10:38:55], mode=BUILD, duration=0:00:00.323, duration_ms=323, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 10:39:21], mode=BUILD, duration=0:00:01.693, duration_ms=1693, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 10:48:36], mode=BUILD, duration=0:00:00.648, duration_ms=648, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:00:27], mode=BUILD, duration=0:00:00.724, duration_ms=724, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:05:49], mode=BUILD, duration=0:00:00.636, duration_ms=636, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:20:39], mode=BUILD, duration=0:00:00.131, duration_ms=131, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:33:08], mode=BUILD, duration=0:00:00.648, duration_ms=648, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:33:30], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:35:17], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-04-20 11:39:37], mode=BUILD, duration=0:00:00.645, duration_ms=645, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-05 12:14:33], mode=WORKBENCH_START, duration=0:00:11.371, duration_ms=11371, data={}
+timestamp=[2023-05-05 12:14:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.943, duration_ms=943, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-05-05 12:14:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.287, duration_ms=287, data={}
+timestamp=[2023-05-05 12:17:00], mode=BUILD, duration=0:00:02.417, duration_ms=2417, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-08 20:04:56], mode=WORKBENCH_START, duration=0:00:10.266, duration_ms=10266, data={}
+timestamp=[2023-05-08 20:04:57], mode=WORKBENCH_UI_INIT, duration=0:00:00.872, duration_ms=872, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-05-08 20:04:57], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.119, duration_ms=119, data={}
+timestamp=[2023-05-08 20:06:08], mode=BUILD, duration=0:00:00.667, duration_ms=667, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 12:21:43], mode=WORKBENCH_START, duration=0:00:10.621, duration_ms=10621, data={}
+timestamp=[2023-05-11 12:21:44], mode=WORKBENCH_UI_INIT, duration=0:00:00.783, duration_ms=783, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-05-11 12:21:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.147, duration_ms=147, data={}
+timestamp=[2023-05-11 12:22:12], mode=BUILD, duration=0:00:00.651, duration_ms=651, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 12:25:07], mode=BUILD, duration=0:00:06.313, duration_ms=6313, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 12:26:44], mode=BUILD, duration=0:00:01.026, duration_ms=1026, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 12:27:11], mode=BUILD, duration=0:00:00.200, duration_ms=200, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 12:36:59], mode=BUILD, duration=0:00:01.043, duration_ms=1043, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 13:54:40], mode=BUILD, duration=0:00:01.254, duration_ms=1254, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 17:41:03], mode=WORKBENCH_START, duration=0:00:30.414, duration_ms=30414, data={}
+timestamp=[2023-05-11 17:41:04], mode=WORKBENCH_UI_INIT, duration=0:00:01.699, duration_ms=1699, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-05-11 17:41:05], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.698, duration_ms=698, data={}
+timestamp=[2023-05-11 18:21:36], mode=WORKBENCH_START, duration=0:00:09.883, duration_ms=9883, data={}
+timestamp=[2023-05-11 18:21:36], mode=WORKBENCH_UI_INIT, duration=0:00:00.743, duration_ms=743, data={editors_count=12, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,sfp_tuning,sfp_tuning_system}
+timestamp=[2023-05-11 18:21:36], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.046, duration_ms=46, data={}
+timestamp=[2023-05-11 18:23:27], mode=PLATFORM_GENERATION, duration=0:00:59.445, duration_ms=59445, data={name=design_1_wrapper}
+timestamp=[2023-05-11 18:23:43], mode=BUILD, duration=0:00:01.854, duration_ms=1854, data={name=sfp_tuning, configuration=Debug, clean_build=false}
+timestamp=[2023-05-11 18:29:40], mode=BUILD, duration=0:00:00.958, duration_ms=958, data={name=sfp_tuning, configuration=Debug, clean_build=false}

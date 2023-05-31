@@ -1,0 +1,16 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"-302,-357",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -x 310 -y -110 -defaultsOSRD
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 2 10 -20 610
+levelinfo -pg 1 -10 310 630
+pagesize -pg 1 -db -bbox -sgen -10 -200 630 180
+"
+}
+{
+   "da_zynq_ultra_ps_e_cnt":"1"
+}
